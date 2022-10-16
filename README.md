@@ -2,9 +2,6 @@ Project 3: NLP Classification of Reddit: Mario Vs Zelda
 
 by (Pornpan Thongdee) & ([*Kantaphon Vareekasem*](https://github.com/Tatadektep))
 
-#!
-[](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: NLP Classification of Reddit: Mario Vs Zelda
-
 "It's-a-me, Mario!" - Super Mario 64.
 "We must win! The fate of Hyrule depends on it!" - Legend of Zelda
 ### [Presentation Deck](https://docs.google.com/presentation/d/1eM9roDkzjL45zVwXfc0ELQt3S4eltEgoB1IsOxTccRc/)
